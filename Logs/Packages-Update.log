@@ -1,0 +1,10 @@
+
+=== Tue Jan 20 21:18:10 2026
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.ai.navigation from version 2.0.8 to 2.0.9
+  com.unity.ide.rider from version 3.0.36 to 3.0.37
+  com.unity.test-framework from version 1.5.1 to 1.6.0

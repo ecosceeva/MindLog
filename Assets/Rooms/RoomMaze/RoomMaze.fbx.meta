@@ -1,0 +1,485 @@
+fileFormatVersion: 2
+guid: b3fb27cb16f417c4dbef1192ecc80712
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BedRoomCarpet.001
+    second: {fileID: 2100000, guid: 9cfe5ea1c52313c499fb0f573bb0cc89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom Bed.001
+    second: {fileID: 2100000, guid: d7b94acf52437d440a752f27a8cb1fc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom BedSeat.001
+    second: {fileID: 2100000, guid: 92c8c60ce8d77424ea8daa4acc6b5a19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom Books.001
+    second: {fileID: 2100000, guid: d804ad4594068ff4ba6e4b679e4d89fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom Cube Shelves.001
+    second: {fileID: 2100000, guid: 1d4eb10cc682eae4db511fb7a5bfb55f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom Curtains.001
+    second: {fileID: 2100000, guid: a9879bd21b2921241a1da96e57941572, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom MUTable.001
+    second: {fileID: 2100000, guid: e769317d98acf5e44bc62e69ef353b47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom Mirror.001
+    second: {fileID: 2100000, guid: 78aa6aac01aff34459916c97b963111d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom Shelves.001
+    second: {fileID: 2100000, guid: a8658c642be12c646ba2d39ee7dd34ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom TumbLamp.001
+    second: {fileID: 2100000, guid: dbf9b7f440b980b4b90c67c9d139f327, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom Wardrobe.001
+    second: {fileID: 2100000, guid: 8af64de0e43d31b4db6508aca96bc114, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BedroomBedtumb.001
+    second: {fileID: 2100000, guid: 1754ad73576ab4c4fad72d485602de30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BedroomChair.001
+    second: {fileID: 2100000, guid: ac6c1ef47cd30fc4ca10820f08f6bf31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BedroomCornerTumb.001
+    second: {fileID: 2100000, guid: 71a93fb2f1e48ef4e8768006a7385eb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BedroomFloor.001
+    second: {fileID: 2100000, guid: 29b4c4e107dc0594aa705d87e0016557, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BedroomFloorLamp.001
+    second: {fileID: 2100000, guid: 02d4da5f3359b0645a778f2cb7153161, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BedroomMiniTable.001
+    second: {fileID: 2100000, guid: 35f1406a297f6214b8c4c2992316cab7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BedroomPictures Cap
+    second: {fileID: 2100000, guid: e227225c1471a1d4e9c1917e4a40cdc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BedroomPictures.001
+    second: {fileID: 2100000, guid: 69a1f608cd466bc47b8829db3b64f816, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BedroomSleepClocks.001
+    second: {fileID: 2100000, guid: fbf2ebbd2af64284fa8f3f523e6c760e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BedroomWall Cap
+    second: {fileID: 2100000, guid: 24bbf91243192f748b7f9938d81c9a06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BedroomWindowStaff.001
+    second: {fileID: 2100000, guid: b469446b3e5123b48a88aa6b96251f92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ColorEmission Street
+    second: {fileID: 2100000, guid: afd95b4ce1ba3df48a57918d62896005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CozyPillows.001
+    second: {fileID: 2100000, guid: b52a8966f75b5884394a86f616dac08e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DecorRedFlower Cutout.001
+    second: {fileID: 2100000, guid: 60268dfc10820ed42b4004bd29bf6cff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DecorRedFlower.001
+    second: {fileID: 2100000, guid: 04c6c86e1f81faa459a83b1ff6de149d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Desks
+    second: {fileID: 2100000, guid: d0ec5c5b0937b7943b59d8fd586d6975, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DownMechs
+    second: {fileID: 2100000, guid: 63eba5de641fd85499ca4bb2039dd1a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HallWallClocks
+    second: {fileID: 2100000, guid: 8734bf3e666ba864d840474caffb1fda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MonitorGlass 1.001
+    second: {fileID: 2100000, guid: 97040029b4af4e543bd5614e000ab6e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MoonLamp.001
+    second: {fileID: 2100000, guid: dacd4dc2d8b0bb340a3eaf2fe3b5024f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Portal and Cabels
+    second: {fileID: 2100000, guid: 7604142a6dc2ceb478641bf93a3c1be6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Recorder.001
+    second: {fileID: 2100000, guid: fc1406840df5a1a4d9694972b856a02d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoomFan.001
+    second: {fileID: 2100000, guid: 0fc35b8431f70c649a856482f6ef620c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShelvesPlant2 Cut.001
+    second: {fileID: 2100000, guid: d034ee53fe939a5499381404fc4d5d88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShelvesPlant2.001
+    second: {fileID: 2100000, guid: 346136ae89148d84585cb69b2d6cfa97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Socket.001
+    second: {fileID: 2100000, guid: ca772c1a9075e4a4cb399acae936d040, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TableFlower Cutout.001
+    second: {fileID: 2100000, guid: b5cbff81f8f57274695f2449725c94ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TableFlower.001
+    second: {fileID: 2100000, guid: 8f523a3f7ee7ac24d9490e17c79ed171, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TeddyBear.001
+    second: {fileID: 2100000, guid: 8e775bd55024c1249b3cd8937afc6ba5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TumbBedroom.001
+    second: {fileID: 2100000, guid: 506d05657476f674cafbb0e533c08c28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UpMechs
+    second: {fileID: 2100000, guid: 185dc41003f04fd45a3c0fed5a17c526, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WashBasketBedroom.001
+    second: {fileID: 2100000, guid: 52bd46a2d79fe454bab216651b7f9718, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Windows Bedroom Glass
+    second: {fileID: 2100000, guid: 13ba80fe0a584624eac5e90c8d5d1509, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Windows Bedroom.001
+    second: {fileID: 2100000, guid: fe2ffded38f16ad499831d2a33873741, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BedRoomCarpet
+    second: {fileID: 2800000, guid: 9f1c7a2845ac61942adab3a377bb960f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BedroomBedtumb
+    second: {fileID: 2800000, guid: b91ccb357cc336e4fb02769841253b20, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BedroomCornerTumb
+    second: {fileID: 2800000, guid: e0b2abe5d4a561b4b9768a7347c8ffcf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BedroomFloor
+    second: {fileID: 2800000, guid: 0b2e4df90b9f5a74ab4a1da107b18a39, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BedroomFloorLamp
+    second: {fileID: 2800000, guid: 2bbf2179b2f35e4468a6ae94f674e406, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BedroomMiniTable
+    second: {fileID: 2800000, guid: b0d4ca531e4993842885fe3b12d24917, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BedroomPictures
+    second: {fileID: 2800000, guid: f54bae694f813c44d9240db25f6360bc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BedroomPictures_Cap
+    second: {fileID: 2800000, guid: 967327fb0f13d1941ab0436c9224cd2d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BedroomSleepClocks
+    second: {fileID: 2800000, guid: b23e7ba340cb1b647a7cdc733f9e5c56, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BedroomWall_Cap
+    second: {fileID: 2800000, guid: fac190bce4bce2f499967a7dd357d6a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BedroomWindowStaff
+    second: {fileID: 2800000, guid: 50f34b5d08b84db44b5b1c94f234df22, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bedroom_Bed
+    second: {fileID: 2800000, guid: 7b4bbb4f2b653a54591d23543b36129b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bedroom_BedSeat
+    second: {fileID: 2800000, guid: 3868d79b9da3d5447b21074dce507b9b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bedroom_Books
+    second: {fileID: 2800000, guid: 3e53192c4f3d07a42a0612e9535a036a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bedroom_Cube_Shelves
+    second: {fileID: 2800000, guid: af2fc699ec45af146a0da742ac3aac42, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bedroom_Curtains
+    second: {fileID: 2800000, guid: d6976b2c3a5c93f4daca8aebf7244ace, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bedroom_MUTable
+    second: {fileID: 2800000, guid: 063762fadac15f64cbbe6c87dd2cb9f2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bedroom_Mirror
+    second: {fileID: 2800000, guid: 1ec33fb2d423459478500941bfd77557, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bedroom_Shelves
+    second: {fileID: 2800000, guid: a8ee2c4896801e64a86af32003bc1877, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bedroom_TumbLamp
+    second: {fileID: 2800000, guid: 69b2b40ff4487674e95b3fa7d41bf304, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bedroom_Wardrobe
+    second: {fileID: 2800000, guid: ae6ac1d406c5e96419737ba80dcff483, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CozyPillows
+    second: {fileID: 2800000, guid: eb60f5a67c92ae342a83883fc4348dfa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: DecorRedFlower
+    second: {fileID: 2800000, guid: 763073655e7893444949475ae2295dce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: RoomFan
+    second: {fileID: 2800000, guid: 8c82c0ad17b26754880f2f7a96f6299b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ShelvesPlant2
+    second: {fileID: 2800000, guid: 420a07f022fe87a489c71d32cfabdbe9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TableFlower
+    second: {fileID: 2800000, guid: 943ec39764bc325498bd4c8602787528, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TeddyBear
+    second: {fileID: 2800000, guid: 0473fdb3b0410d04593c7748aa14f314, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TumbBedroom
+    second: {fileID: 2800000, guid: 3a25886824fd750448108f427d6d47aa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WashBasketBedroom
+    second: {fileID: 2800000, guid: 5f0dabeea54e49b46ba75cd5b60aa9f9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Windows_Bedroom
+    second: {fileID: 2800000, guid: 2686835c86ee8534b881bf6bdea8f6cf, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
